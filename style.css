@@ -169,7 +169,7 @@ section .main-container{
 
 } .main-container .image{
    width: 500px;
-   height: 88vh;
+   height: 82vh;
    border-radius: 100%;
    overflow: hidden;
    box-shadow: 0 0 50px rgb(33, 15, 141);
